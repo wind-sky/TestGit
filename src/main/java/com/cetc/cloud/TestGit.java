@@ -9,6 +9,6 @@ package com.cetc.cloud;
  */
 public class TestGit {
     public static void main(String[] args) {
-        System.out.println("This is my first use git to management version control!");
+        System.out.println("This is my first to use git to management version control!");
     }
 }
